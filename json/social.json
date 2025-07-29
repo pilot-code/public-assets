@@ -3,7 +3,7 @@
     "name": "WhatsApp",
     "nameFa": "واتس اپ",
     "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/WhatsApp.svg",
-    "contact_link": "https://wa.me/19516663236"
+    "contact_link": "https://wa.me/your-number"
   },
   {
     "name": "Telegram",
@@ -12,9 +12,15 @@
     "contact_link": "https://t.me/bestpinginfo"
   },
   {
-    "name": "Online Chat!",
-    "nameFa": "چت آنلاین ",
-    "logo": "https://cdn-icons-png.flaticon.com/512/2462/2462719.png",
+    "name": "Chat Online",
+    "nameFa": "اینستاگرام",
+    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Instagram.png",
     "contact_link": "https://www.goftino.com/c/eNMnyR"
+  },
+  {
+    "name": "Phone Number",
+    "nameFa": "شماره تلفن",
+    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Phone_iOS.png",
+    "contact_link": "tel:+your-phone-number"
   }
 ]
